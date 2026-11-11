@@ -1,0 +1,6 @@
+{
+  "small_file_threshold": 512,
+  "target_bytes": 600,
+  "clock": 1000,
+  "lease_seconds": 60
+}

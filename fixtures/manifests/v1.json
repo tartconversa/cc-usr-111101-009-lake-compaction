@@ -1,0 +1,47 @@
+{
+  "snapshot_id": "s1",
+  "files": {
+    "f1": {
+      "path": "objects/f1.jsonl",
+      "partition": "2026-09",
+      "sha256": "ea0c29512627c09be0e11c70c30412edae5580cd61c72e8f3d401fb46268b141",
+      "row_count": 2,
+      "size_bytes": 116
+    },
+    "f2": {
+      "path": "objects/f2.jsonl",
+      "partition": "2026-09",
+      "sha256": "029e444f06f7e435cf879267cb8086e01bd25c87e3f0a35bf085aa1ed33dc004",
+      "row_count": 2,
+      "size_bytes": 116
+    },
+    "f3": {
+      "path": "objects/f3.jsonl",
+      "partition": "2026-09",
+      "sha256": "c167df804fd8497ec0c863f5ce1df8cbd79e2cf345648aea5238b508c3604c2f",
+      "row_count": 2,
+      "size_bytes": 116
+    },
+    "f4": {
+      "path": "objects/f4.jsonl",
+      "partition": "2026-09",
+      "sha256": "ee1ada791a3b235df8e921bacbf77dbfa94bda2ae36dfc074830ef8c58defefe",
+      "row_count": 2,
+      "size_bytes": 116
+    },
+    "f5": {
+      "path": "objects/f5.jsonl",
+      "partition": "2026-09",
+      "sha256": "ae6b2d266a5c19a19ae3a7824d74f9f48b1902cd2ec9f5199d687405ea6285fd",
+      "row_count": 2,
+      "size_bytes": 116
+    },
+    "f6": {
+      "path": "objects/f6.jsonl",
+      "partition": "2026-09",
+      "sha256": "61efac4811831394f342bfa9eb2042e424e3fbffb7e2ec876c5f50680d48e563",
+      "row_count": 2,
+      "size_bytes": 116
+    }
+  }
+}
